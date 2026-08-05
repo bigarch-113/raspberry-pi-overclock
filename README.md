@@ -1,0 +1,2 @@
+# raspberry-pi-overclock
+THIS OVERCLOCK IS ONLY FOR THE RASPBERRY PI 4
