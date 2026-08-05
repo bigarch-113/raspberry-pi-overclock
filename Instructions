@@ -1,0 +1,10 @@
+Log on to your raspiberry pi and go to the terminal (ctrl+alt+t)
+run: sudo nano /boot/firmware/config.tx
+In the very last line under [all] copy and paste the line below
+# uncomment below to overclock cpu freq=2GHz
+over_voltage=6
+arm_freq=2000
+gpu_freq=500
+
+press ctrl then enter then x 
+run sudo reboot
